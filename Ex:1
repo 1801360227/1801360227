@@ -1,0 +1,7 @@
+Public class patrrn {
+Public static void Main 
+(string args[])
+{
+System out. Println ("n/n/print the following patarn:\n);
+System out.println("----------------");
+}
