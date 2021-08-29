@@ -1,0 +1,10 @@
+Public class sphere{
+Public static void Main (string args []);
+{
+System .out.println("calculate the volume of sphere: ");
+System. Out println ("-----------------------/n");
+int radious =5;
+double pie=3.143889666588;
+double volume =(4.0/3.0 r*r*r:);
+System. out. Println (volume of sphere ="+volume ");
+ }
